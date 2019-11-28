@@ -8,6 +8,9 @@ namespace UnitTestProject1
     /// <summary>
     /// Summary description for CreateArray
     /// </summary>
+	
+	//Changes ade by Brijendra
+	//add summarynew times
     [TestClass]
     public class CreateArray
     {
@@ -15,7 +18,7 @@ namespace UnitTestProject1
         {
             int[] arr = new int[5];
             arr[0] = 10;
-            arr[1] = 20;
+            arr[1] = 50;
             arr[2] = 30;
             arr[3] = 40;
             arr[4] = 50;
