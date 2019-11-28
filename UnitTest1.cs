@@ -8,6 +8,7 @@ namespace UnitTestProject1
     /// <summary>
     /// Summary description for UnitTest1
     /// </summary>
+	// new note defined
     [TestClass]
     public class UnitTest1
     {
