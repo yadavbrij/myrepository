@@ -8,6 +8,9 @@ namespace UnitTestProject1
     /// <summary>
     /// Summary description for CreateArray
     /// </summary>
+	//Click Edit Button
+	//Click Action class
+	// Click Drop down
 	
 	//Changes ade by Brijendra
 	//add summarynew times
